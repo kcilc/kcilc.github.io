@@ -1,3 +1,3 @@
 # Kcilc
 
-Front-end developer that really likes cats.
+I'm a front-end developer and designer that can turn your ideas into reality.
