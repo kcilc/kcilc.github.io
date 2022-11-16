@@ -17,3 +17,10 @@ h1 {
   font-family: 'peace_sansregular', helvetica, sans-serif;
   font-weight: 400;
 }
+
+.centered {
+    position: absolute;
+    inset: 0;
+    display: grid;
+    place-items: center;
+}
