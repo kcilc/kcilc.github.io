@@ -1,5 +1,12 @@
-h1 {
+body {
   font-family: 'Mona Sans', helvetica, sans-serif;
+}
+
+p {
+  text-align: center;
+  font-weight: 600;
+  font-size: 2rem;
+  color: #aaa;
 }
 
 .centered {
