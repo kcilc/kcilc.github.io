@@ -2,13 +2,22 @@ body {
   font-family: 'Mona Sans', helvetica, sans-serif;
 }
 
+p {
+  text-align: center;
+  font-weight: 600;
+  font-size: 2rem;
+  color: #aaa;
+}
+
+span {
+  color: #689;
+}
+
 .centered {
     position: absolute;
     inset: 0;
     display: grid;
     place-content: center;
-}
-
-.centered p {
-  text-align: center;
+    place-items: center;
+    gap: 2em;
 }
