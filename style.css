@@ -18,3 +18,17 @@ span {
 .centered p {
   text-align: center;
 }
+
+.sign {
+  font-family: 'Overpass', 'Mona Sans', helvetica, sans-serif;
+  position: relative;
+}
+
+.sign::before {
+  content: '';
+  background-color: yellow;
+  position: absolute;
+  inset: 0;
+  rotate: 45deg;
+  scale: 2;
+}
