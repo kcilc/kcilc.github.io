@@ -26,6 +26,7 @@ span {
 
 .sign::before {
   content: '';
+  display: block;
   background-color: yellow;
   position: absolute;
   inset: 0;
